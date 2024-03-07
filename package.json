@@ -32,7 +32,9 @@
     "svix": "^1.17.0",
     "tailwind-merge": "^2.2.1",
     "tailwindcss-animate": "^1.0.7",
-    "zod": "^3.22.4"
+    "zod": "^3.22.4",
+    "ethers": "^5.7.2",
+    "framer-motion": "^11.0.5"
   },
   "devDependencies": {
     "@types/node": "^20",
