@@ -1,18 +1,8 @@
-Website: https://www.deimaginify.xyz/
+# Website
+
+[Deimaginify](https://www.google.com/)
 
 The Application offer a comprehensive suite of AI-powered tools designed to enhance, restore, and personalize your visual content.
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/6661307a-a795-4eef-86f5-a3ccceda87f3/a3cb1062-0672-4f94-9202-2df79aadd268/Untitled.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/6661307a-a795-4eef-86f5-a3ccceda87f3/4878b2cf-9cb5-4a2d-8b11-3a8624a078b2/Untitled.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/6661307a-a795-4eef-86f5-a3ccceda87f3/929c19cc-227c-444d-8077-29bb782ca501/Untitled.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/6661307a-a795-4eef-86f5-a3ccceda87f3/57eaf101-fe21-4f1c-9ffc-f53e4a3404f9/Untitled.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/6661307a-a795-4eef-86f5-a3ccceda87f3/25eb433d-9702-4e4d-8e60-54944cd1cdd2/Untitled.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/6661307a-a795-4eef-86f5-a3ccceda87f3/e246c4b6-1464-411a-abc5-85654b65a95e/Untitled.png)
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -59,3 +49,18 @@ The Application offer a comprehensive suite of AI-powered tools designed to enha
 
 📱 Responsive UI/UX: A seamless experience across devices with a user-friendly interfa
 
+------
+
+# Features
+
+![s1](https://github.com/sam5-hub/DeImaginify/assets/4220502/7b9ce979-4627-4b54-91df-56ae2ec60b27)
+
+![s6](https://github.com/sam5-hub/DeImaginify/assets/4220502/1e4863f7-f19a-476b-8a8a-5a10528c4bf7)
+
+![s5](https://github.com/sam5-hub/DeImaginify/assets/4220502/038ec0b3-6793-4ce9-91d2-e760444d5162)
+
+![s4](https://github.com/sam5-hub/DeImaginify/assets/4220502/37344a17-7b36-4eb7-8838-ceee49d53471)
+
+![s3](https://github.com/sam5-hub/DeImaginify/assets/4220502/20c854e9-435e-4d06-a38d-db7152dd72f6)
+
+![s2](https://github.com/sam5-hub/DeImaginify/assets/4220502/7914bf91-55b1-4a1a-87b5-a31c229812b1)
